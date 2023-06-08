@@ -1,0 +1,66 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image:url(https://treobangron.com.vn/wp-content/uploads/2022/09/background-dep-3-2.jpg);
+    background-color: rgba(216, 216, 168, 0.694);
+}.ss1{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: auto;
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: 10%;
+    width: 70%;
+    max-width: 70%;
+    background-color: rgb(162, 179, 189);
+    border-radius: 12px;
+    border-style: solid;
+    box-shadow: 5px 5px 15px rgb(12, 12, 12);
+    
+}
+.ss2{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 8px;
+    width: 100%;
+    max-width: 100%;
+    background-color: rgb(237, 178, 212);
+    border-radius: 12px;
+    box-shadow: 0px 0px 5px 5px rgb(13, 13, 13);
+}
+.chu{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mid{
+    text-align: center;
+}
+.thugonhang{
+    margin:auto;
+    margin-top: 12px;
+    color :  burlywood;
+    background-color: rgb(65, 92, 92);
+    border-radius: 12222px;
+    border-style: groove;
+    width: 250px;
+
+}
+.fontsize{
+    font-size: 17px;
+}
+a{
+    color: oldlace;
+}
+
+a:hover{
+    color: rgb(208, 16, 16);
+}
+a:active{
+    color:rgb(14, 225, 21);
+}
+.color{
+    color: rgb(216, 196, 197);
+    background: linear-gradient(rgb(89, 89, 111),rgb(46, 111, 46),rgb(132, 47, 47));
+    box-shadow: 2px 2px 1px 0 ;
+}
+
